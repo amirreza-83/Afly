@@ -1,0 +1,8 @@
+name: Afly
+version: '${project.version}'
+main: fun.minestarsv.afly.Afly
+authors: [amirreza83]
+description: Afly Minecarft fly plugin 
+website: https://discord.gg/anar-872880981571436614
+commands:
+  fly:
